@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/main/java/json/parse/jsonparsing/JsonparsingApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/main/java/json/parse/jsonparsing/controller/MessageObjectController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/main/java/json/parse/jsonparsing/model/MessageGroup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/main/java/json/parse/jsonparsing/model/MessageObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/main/java/json/parse/jsonparsing/service/MessageObjectService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/main/java/json/parse/jsonparsing/service/MessageObjectServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JsonParsing/src/test/java/json/parse/jsonparsing/JsonparsingApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/controller/DepartmentControlleer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/controller/DepartmentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/entity/Department.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/entity/ErrorMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/error/DepartmentNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/error/RestResponseEntityExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/repository/DepartmentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/service/DepartmentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/java/com/magicode/springboot/tutorial/service/DepartmentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/test/java/com/magicode/springboot/tutorial/controller/DepartmentControlleerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/test/java/com/magicode/springboot/tutorial/repository/DepartmentRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootComplete/spring-boot-tutorial/src/test/java/com/magicode/springboot/tutorial/service/DepartmentServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pureintegration2/src/main/java/boot/jpa/pureintegration/controller/EmployeeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pureintegration2/src/main/java/boot/jpa/pureintegration/repository/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pureintegration2/src/main/java/boot/jpa/pureintegration/service/EmployeeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pureintegration2/src/test/java/boot/jpa/pureintegration/ApplicationTestUsingMockito.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pureintegration2/src/test/java/boot/jpa/pureintegration/PureintegrationApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Username.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/validateusername/Username.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/TDDTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/tdd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/usernametest/TDDTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
